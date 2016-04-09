@@ -1,12 +1,10 @@
-package edu.neu.ccs.cs5004.seattle.assignment9_xhwu_bhling;
-
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * The class processes lines in the input file. It also formats all content into HTML format.
  *
- * @author xhwu-bhling
+ * 
  */
 public class OrganizeObjects {
 
