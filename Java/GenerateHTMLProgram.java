@@ -1,11 +1,11 @@
-package edu.neu.ccs.cs5004.seattle.assignment9_xhwu_bhling;
+
 
 import java.io.IOException;
 
 /**
  * Represents the main console of the text processor program
  *
- * @author xhwu-bhling
+ * 
  *
  */
 public class GenerateHTMLProgram {
